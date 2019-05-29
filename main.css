@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.input-sm {
+  border:1px;
+  border: solid;
+  border: #ff0000;
+  font-weight: bold;
+  color: black;
+}
+
+.form-control:focus{
+    border-color: #cccccc;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#user {
+  font-weight: bold;
+}
